@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Raja",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "karan",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "raushan",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
